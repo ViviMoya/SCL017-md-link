@@ -1,5 +1,10 @@
 # Markdown Links
 
+***
+![DIAGRAMA DE FLUJO](./src/images/diagrama.jpg)
+
+***
+<details>
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
@@ -531,3 +536,4 @@ cuenta utilizando **new Promise()**
 
 Es importante que sepas qué es un **callback** pues las
 promesas los utilizarán.
+</details>
